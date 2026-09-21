@@ -1,0 +1,6 @@
+gradio
+torch
+pipeline
+AutoTokenizer
+AutoModelForSequenceClassification
+transformers
