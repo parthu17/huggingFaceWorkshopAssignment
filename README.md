@@ -142,8 +142,8 @@ Model: NEGATIVE
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
-cd <repository-folder>
+git clone https://github.com/parthu17/huggingFaceWorkshopAssignment.git
+cd Project-Files
 ```
 
 ### 2. Install the required libraries
